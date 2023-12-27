@@ -1,0 +1,174 @@
+{
+    "code": 0,
+    "message": "Product Created Successfully",
+    "product": {
+        "product_id": "1706707000000561016",
+        "account_id": "1706707000000000388",
+        "ancestor_categories": [
+            {
+                "parent_category_id": "null",
+                "category_id": "1706707000000068762",
+                "name": "Partywear",
+                "url": "partywear"
+            }
+        ],
+        "attribute1": {
+            "name": "Size",
+            "options": [
+                {
+                    "option_id": "1706707000000067341",
+                    "option_name": "L"
+                }
+            ],
+            "id": "1706707000000067329",
+            "type": "Text"
+        },
+        "attribute2": {},
+        "attribute3": {},
+        "show_in_storefront": true,
+        "show_in_pos": false,
+        "show_in_both": false,
+        "attribute_id1": "1706707000000067329",
+        "attribute_id2": "",
+        "attribute_id3": "",
+        "attribute_name1": "Size",
+        "attribute_name2": "",
+        "attribute_name3": "",
+        "attribute_type1": "Text",
+        "attribute_type2": "",
+        "attribute_type3": "",
+        "attributes": [
+            {
+                "id": "1706707000000067329",
+                "name": "Size",
+                "type": "text",
+                "options": [
+                    {
+                        "id": "1706707000000067341",
+                        "name": "L",
+                        "data": ""
+                    }
+                ]
+            }
+        ],
+        "brand": "Remy",
+        "category_id": "1706707000000068762",
+        "category": {
+            "category_id": "1706707000000068762",
+            "category_name": "Partywear"
+        },
+        "description": "",
+        "product_description": "",
+        "product_short_description": "",
+        "documents": [],
+        "has_variant": false,
+        "image_name": "",
+        "image_type": "",
+        "inventory_account_id": "1706707000000034001",
+        "is_taxable": true,
+        "is_returnable": true,
+        "manufacturer": "",
+        "name": "A-line Pink Dress",
+        "purchase_account_id": "1706707000000034003",
+        "seo_description": "",
+        "seo_keyword": "Pink-dress, A-line",
+        "seo_title": "A-line Pink dress",
+        "specifications": [],
+        "specificationset_id": "",
+        "specificationset_name": "",
+        "tags": [
+            {
+                "tag_name": "Pink",
+                "tag_id": "1706707000000557078"
+            },
+            {
+                "tag_name": "A-line",
+                "tag_id": "1706707000000557080"
+            }
+        ],
+        "product_tags": [
+            {
+                "tag_name": "Pink",
+                "tag_id": "1706707000000557078"
+            },
+            {
+                "tag_name": "A-line",
+                "tag_id": "1706707000000557080"
+            }
+        ],
+        "page_layout_id": "",
+        "url": "a-line-pink-dress",
+        "variant_type": "inventory",
+        "variants": [
+            {
+                "variant_id": "1706707000000561018",
+                "attribute_id1": "1706707000000067329",
+                "attribute_id2": "",
+                "attribute_id3": "",
+                "attribute_name1": "Size",
+                "attribute_name2": "",
+                "attribute_name3": "",
+                "attribute_type1": "Text",
+                "attribute_type2": "",
+                "attribute_type3": "",
+                "attribute_option_id1": "1706707000000067341",
+                "attribute_option_id2": "",
+                "attribute_option_id3": "",
+                "attribute_option_name1": "L",
+                "attribute_option_name2": "",
+                "attribute_option_name3": "",
+                "attribute_option_data1": "",
+                "attribute_option_data2": "",
+                "attribute_option_data3": "",
+                "collect_variant_level_data": "",
+                "created_time": "2019-12-20T00:46:02-0700",
+                "description": "",
+                "ean": "",
+                "image_name": "",
+                "image_type": "",
+                "documents": [],
+                "isbn": "",
+                "is_combo_product": false,
+                "is_linked_with_zohocrm": false,
+                "is_taxable": true,
+                "last_modified_time": "2019-12-20T00:46:02-0700",
+                "package_details": {
+                    "length": "",
+                    "width": "",
+                    "height": "",
+                    "weight": "",
+                    "weight_unit": "lb",
+                    "dimension_unit": "in",
+                    "name": "A-line Pink Dress-L",
+                    "part_number": "",
+                    "product_type": "goods",
+                    "purchase_description": "",
+                    "purchase_rate": 0,
+                    "rate": 1539,
+                    "label_rate": 2199,
+                    "reorder_level": 5,
+                    "initial_stock": 25,
+                    "initial_stock_rate": 1539,
+                    "sku": "W005-51-120",
+                    "source": "",
+                    "status": "active",
+                    "stock_on_hand": 25,
+                    "actual_available_stock": 25,
+                    "available_stock": 25,
+                    "available_sale_stock": 25,
+                    "custom_fields": [],
+                    "tax_exemption_id": "",
+                    "upc": "",
+                    "variant_type": "inventory"
+                }
+            }
+        ],
+        "sales_channels": [],
+        "source": "user",
+        "status": "active",
+        "tax_exemption_code": "",
+        "tax_exemption_id": "",
+        "is_featured": false,
+        "unit": ""
+    }
+}
