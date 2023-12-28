@@ -45,7 +45,7 @@
     "randomstring": "^1.1.5",
     "request": "^2.72.0",
     "sticky-session": "^1.1.2",
-    "twilio": "^3.80.1",
+    "twilio": "^3.84.1",
     "underscore": "*",
     "zoho-books": "^1.1.0"
   },
